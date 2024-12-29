@@ -1,0 +1,19 @@
+{
+  "name": "astros-first-package",
+  "version": "1.0.0",
+  "description": "DESPAIR",
+  "keywords": [
+    "depsiar"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://git.astrohweston.xyz/Astropulent/npm-testing.git"
+  },
+  "license": "AGPL-3.0-or-later",
+  "author": "Astropulent",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
