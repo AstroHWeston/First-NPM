@@ -5,6 +5,9 @@
   "keywords": [
     "depsiar"
   ],
+  "publishConfig": {
+  "registry": "https://npm.pkg.github.com"
+  },
   "repository": {
     "type": "git",
     "url": "https://git.astrohweston.xyz/Astropulent/npm-testing.git"
