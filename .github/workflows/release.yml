@@ -22,8 +22,7 @@ jobs:
           node-version: ${{ matrix.node-version }}
           cache: 'pnpm'
 
-    - name: Release
-      env:
-        NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-      run: pnpm publish
-      # hate life
+      - name: Release
+        env:
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+        run: pnpm publish
