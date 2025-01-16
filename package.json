@@ -1,13 +1,13 @@
 {
   "name": "astros-first-package",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "DESPAIR",
   "keywords": [
     "depsiar"
   ],
   "publishConfig": {
-  "registry": "https://registry.npmjs.org/"
-  },
+  "registry": "https://npm.pkg.github.com"
+},
   "repository": {
     "type": "git",
     "url": "https://git.astrohweston.xyz/Astropulent/npm-testing.git"
